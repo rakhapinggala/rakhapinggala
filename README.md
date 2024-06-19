@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Machine Learning
+- 🌱 I’m currently learning Data science
+- 👯 I’m looking to collaborate on Algorithm
+- 📫 How to reach me: @rakhapinggala
